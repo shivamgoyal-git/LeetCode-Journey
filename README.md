@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
