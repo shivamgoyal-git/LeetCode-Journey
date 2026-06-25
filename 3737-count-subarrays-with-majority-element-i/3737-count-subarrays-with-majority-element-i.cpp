@@ -6,10 +6,15 @@ public:
         for (int i = 0; i < n; i++) {
             int count = 0;
             for (int j = i; j < n; j++) {
-                count = count + (nums[j] == target ? 1 : -1);
-
-                if (count > 0)
+                if(nums[j]== target)
+                {
+                    count += 1;
+                }
+                int arrLen = j-i+1;
+                if(count*2>arrLen)
+                {
                     ans++;
+                }
             }
         }
         return ans;
