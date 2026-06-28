@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
