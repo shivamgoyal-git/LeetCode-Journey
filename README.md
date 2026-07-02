@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -89,4 +90,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
