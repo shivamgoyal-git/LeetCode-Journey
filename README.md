@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
