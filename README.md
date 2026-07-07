@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3894-traffic-signal-color) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
