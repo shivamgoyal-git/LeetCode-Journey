@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3894-traffic-signal-color](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
 | ------- |
@@ -131,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3894-traffic-signal-color](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
