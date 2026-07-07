@@ -128,5 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
