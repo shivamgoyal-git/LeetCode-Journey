@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -165,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
