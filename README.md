@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Breadth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
+| [1952-three-divisors](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2469-convert-the-temperature) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
