@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3634-minimum-removals-to-balance-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
