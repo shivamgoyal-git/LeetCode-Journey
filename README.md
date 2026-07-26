@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
