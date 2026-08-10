@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -291,12 +294,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivamgoyal-git/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
